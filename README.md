@@ -82,3 +82,7 @@ and we can use numbers from 1 to 9 denoting the order for reading the color for 
 &emsp;&emsp;&emsp; | 4 | 5 | 6 | <br>
 &emsp;&emsp;&emsp; | 7 | 8 | 9 | <br>
 were we read the colors on the top side first, then the right side, then the front side, then the down side, then the left side and finally the back side.
+
+# Code Reference
+1. The code for scrambling the cube is taken from: [https://github.com/BenGotts/Python-Rubiks-Cube-Scrambler]
+2. The code for the fitness function (Kociemba Algorithm) is taken from: [https://github.com/hkociemba/RubiksCube-TwophaseSolver]
