@@ -86,3 +86,9 @@ were we read the colors on the top side first, then the right side, then the fro
 # Code Reference
 1. The code for scrambling the cube is taken from: [https://github.com/BenGotts/Python-Rubiks-Cube-Scrambler]
 2. The code for the fitness function (Kociemba Algorithm) is taken from: [https://github.com/hkociemba/RubiksCube-TwophaseSolver]
+
+# Citations
+The full paper can be read at: DOI: [https://www.tandfonline.com/doi/full/10.1080/08839514.2022.2138129?scroll=top&needAccess=true] <br>
+To cite this article:
+Jishnu Jeevan & Madhu S. Nair (2022) On the performance analysis of solving the Rubik’s cube using swarm intelligence algorithms, Applied Artificial Intelligence, 36:1, DOI: 10.1080/08839514.2022.2138129
+
