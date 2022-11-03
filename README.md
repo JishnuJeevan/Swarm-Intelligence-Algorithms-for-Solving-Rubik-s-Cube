@@ -90,5 +90,5 @@ were we read the colors on the top side first, then the right side, then the fro
 # Citations
 The full paper can be read at: DOI: [https://www.tandfonline.com/doi/full/10.1080/08839514.2022.2138129?scroll=top&needAccess=true] <br>
 To cite this article:
-Jishnu Jeevan & Madhu S. Nair (2022) On the performance analysis of solving the Rubik’s cube using swarm intelligence algorithms, Applied Artificial Intelligence, 36:1, DOI: 10.1080/08839514.2022.2138129
+Jishnu Jeevan and Madhu S. Nair, "On the Performance Analysis of Solving the Rubik’s Cube using Swarm Intelligence Algorithms", Applied Artificial Intelligence, Taylor & Francis, Vol.36, No.1, Article No.2138129, pp.3373-3406, October 2022.
 
